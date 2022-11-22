@@ -1,0 +1,43 @@
+Entity Sets:
+Entity Set 1 - Team 1
+  Players - People who hold statistics on the team
+  Positions - Positions of different players
+    Shots - People who have shot the ball in game
+    Shots Made - People who have scored
+    Goals Saved - Players who have made a save
+    Faceoffs Taken - Faceoffs taken
+    Faceoffs Won - Faceoffs Won
+    Faceoffs Lost - Faceoffs Lost
+    Ground Balls - Ground Balls gotten
+Entity Set 2 - Team 2
+  Players - People who hold statistics on the team
+  Positions - Positions of different players
+    Shots - People who have shot the ball in game
+    Shots Made - People who have scored
+    Goals Saved - Players who have made a save
+    Faceoffs Taken - Faceoffs taken
+    Faceoffs Won - Faceoffs Won
+    Faceoffs Lost - Faceoffs Lost
+    Ground Balls - Ground Balls gotten
+Entity Set 3 - Team 3
+  Players - People who hold statistics on the team
+  Positions - Positions of different players
+    Shots - People who have shot the ball in game
+    Shots Made - People who have scored
+    Goals Saved - Players who have made a save
+    Faceoffs Taken - Faceoffs taken
+    Faceoffs Won - Faceoffs Won
+    Faceoffs Lost - Faceoffs Lost
+    Ground Balls - Ground Balls gotten
+Entity Set 4 - Team 4
+Players - People who hold statistics on the team
+Positions - Positions of different players
+  Shots - People who have shot the ball in game
+  Shots Made - People who have scored
+  Goals Saved - Players who have made a save
+  Faceoffs Taken - Faceoffs taken
+  Faceoffs Won - Faceoffs Won
+  Faceoffs Lost - Faceoffs Lost
+  Ground Balls - Ground Balls gotten
+
+  
