@@ -1,0 +1,60 @@
+INSERT INTO player VALUES('0000001', 'Greg Beastly', '100');
+INSERT INTO Number VALUES('0000001', '32');
+INSERT INTO Position VALUES('0000001', 'Midfield');
+INSERT INTO player_team VALUES('0000001', '0000001');
+
+
+INSERT INTO player VALUES('0000002', 'Gene The Machine', '99');
+INSERT INTO Number VALUES('0000002', '13');
+INSERT INTO Position VALUES('0000002', 'Midfield');
+INSERT INTO player_team VALUES('0000001', '0000002');
+
+
+INSERT INTO player VALUES('0000003', 'Joe Gianoodle', '85');
+INSERT INTO Number VALUES('0000003', '16');
+INSERT INTO Position VALUES('0000003', 'Attack');
+INSERT INTO player_team VALUES('0000003', '0000003');
+
+
+INSERT INTO player VALUES('0000004', 'Ryan Barnes', '90');
+INSERT INTO Number VALUES('0000004', '3');
+INSERT INTO Position VALUES('0000004', 'Defense');
+INSERT INTO player_team VALUES('0000004', '0000004');
+
+
+INSERT INTO player VALUES('0000005', 'MilkMan', '99');
+INSERT INTO Number VALUES('0000005', '21');
+INSERT INTO Postion VALUES('0000005', 'Defense');
+INSERT INTO player_team VALUES('0000005', '0000005');
+
+INSERT INTO player VALUES('0000006', 'Gabe Van', '69');
+INSERT INTO Number VALUES('0000006', '41');
+INSERT INTO Position VALUES('0000006', 'Offense');
+INSERT INTO player_team VALUES('0000001', '0000006');
+
+INSERT INTO player VALUES('0000007', 'Elton John', '72');
+INSERT INTO Number VALUES('0000007', '69');
+INSERT INTO Position VALUES('0000007', 'Attack');
+INSERT INTO player_team VALUES('0000002', '000007');
+
+
+
+INSERT INTO stats VALUES('0000001','20', '156', '2', '350');
+INSERT INTO stats VALUES('0000002','15', '203', '5', '342');
+INSERT INTO stats VALUES('0000003','60', '35', '8', '20');
+INSERT INTO stats VALUES('0000004','70', '10', '15', '1');
+INSERT INTO stats VALUES('0000005','1', '150', '180', '2');
+INSERT INTO stats VALUES('0000006', '12', '20', '9', '0');
+INSERT INTO stats VALUES('0000007','20', '15', '18', '0');
+
+INSERT INTO Team VALUES('0000001', 'Chaos', '2015');
+INSERT INTO Team VALUES('0000002', 'Whipsnales', '2015');
+INSERT INTO Team VALUES('0000003', 'Archers', '2015');
+INSERT INTO Team VALUES('0000004', 'Redwoods', '2015');
+INSERT INTO Team VALUES('0000005', 'Chrome', '2015');
+
+INSERT INTO Coaches VALUES('0000001','Andy Towers','60', '2015');
+INSERT INTO Coaches VALUES('0000002','AJ', '60', '2015');
+INSERT INTO Coaches VALUES('0000003','Dwight Howard', '60', '2018');
+INSERT INTO Coaches VALUES('0000004','Trevor Lawrence', '60', '2020');
+INSERT INTO Coaches VALUES('0000005','Glados', '60', '2016');
